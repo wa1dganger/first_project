@@ -1,3 +1,5 @@
 *.log
 logs/*
 !rare_critical_logs.log
+key_git
+key_git.pub
